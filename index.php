@@ -72,8 +72,11 @@ while (false !== ($entry = $d->read())) {
 			</div>
 			<div id="screenshots">
 				<h2>Screenshots</h2>
-				<h4><a href="https://github.com/nurupo/ProjectTox-Qt-GUI">ProjectTox-Qt-Gui</a> running on Windows 8(Image by Someguy123)</h4>
+				<h4><a href="https://github.com/nurupo/ProjectTox-Qt-GUI">ProjectTox-Qt-GUI</a> running on Windows 8(Image by Someguy123)</h4>
 				<img src="http://i.imgur.com/0pr2U6m.png" />
+				<hr/>
+				<h4><a href="https://github.com/nurupo/ProjectTox-Qt-GUI">ProjectTox-Qt-GUI</a> with ncurses enabled (Toxic) running on Windows 8</h4>
+				<img src="http://i.imgur.com/HxATUmU.png" />
 				<hr/>
 				<h4><a href="https://github.com/stal888/Poison">Poison</a> running on Mac OSX (Image by Pseudonym)</h4>
 				<img src="http://i.imgur.com/5Qf1GqU.png" />
