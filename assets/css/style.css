@@ -37,3 +37,8 @@ h1, h2, h3, h4, h5 {
 a {
 	color: #8E9;
 }
+.push {
+	margin-top: 50px;
+	min-height: 50px;
+	padding-bottom: 50px;
+}

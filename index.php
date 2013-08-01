@@ -21,7 +21,6 @@ while (false !== ($entry = $d->read())) {
 	</head>
 	
 	<body>
-	
 		<div class="content">
 			<div class="center">
 				<img src="http://tox.im/assets/imgs/logo_main.png" alt="Unofficial Tox Repo" />
@@ -85,12 +84,11 @@ while (false !== ($entry = $d->read())) {
 				<h4>nTox_win32 (The Windows download on this site) (Image by Someguy123)</h4>
 				<img src="http://i.imgur.com/RurwOfv.png" />
 			</div>
-			<div id="git">
-				<h2>Contributing to this page</h2>
-				<p>Did you know this site is available on GitHub? If you want something to be changed or fixed, do it yourself by <a href="https://github.com/Someguy123/tox-site/fork">forking the site</a> and then <a href="https://help.github.com/articles/using-pull-requests">submit a pull request</a> with your changes to my website. After I've reviewed your request and pulled it, it will soon appear on this page. Thanks to those who contribute to my site, making tox better for others to use.</p>
-			</div>
+		</div>
+		<div class="content push" id="git">
+			<h2>Contributing to this page</h2>
+			<p>Did you know this site is available on GitHub? If you want something to be changed or fixed, do it yourself by <a href="https://github.com/Someguy123/tox-site/fork">forking the site</a> and then <a href="https://help.github.com/articles/using-pull-requests">submit a pull request</a> with your changes to my website. After I've reviewed your request and pulled it, it will soon appear on this page. Thanks to those who contribute to my site, making tox better for others to use.</p>
 			<p class="p-1">Useful to you? Donate :) <strong>1SoMGuYknDgyYypJPVVKE2teHBN4HDAh3</strong> or<strong> LSomguyTSwcw3hZKFts4P453sPfn4Y5Jzv</strong></p>
 		</div>
-	
 	</body>
 </html>
