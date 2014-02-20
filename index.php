@@ -27,7 +27,7 @@ while (false !== ($entry = $d->read())) {
 			</div>
 			<h1 class="center">Someguy123's Unofficial Tox Repository</h1>
 			<p>This page contains information and links collected by Someguy123 for the open source, encrypted chat client <a href="http://tox.im">Tox</a>.
-			On this page you will find binary builds for different platforms to allow you to get started with Tox fast and easily.</p>
+			On this page you will find <b>DEPRECIATED</b> binary builds for different platforms to allow you to get started with Tox fast and easily.</p>
 			<span id="warning"><b>Warning:&nbsp;</b> These builds are provided for your convenience. As with all software downloaded from the internet, apply correct security precautions to what you're downloading. Scan it with your antivirus, run it in a sandbox or virtual machine etc.</span>
 			<div class="block-1">
 			  <ol>
@@ -45,30 +45,26 @@ while (false !== ($entry = $d->read())) {
 			<div id="faq">
 				<h1>Frequently Asked Questions</h1>
 				<b>Q: Why can't I download Tox from Tox.im</b><br/>
-				A: The download button is disabled because there aren't any true downloads<br/>
+				A: You can, the download button is now enabled<br/>
 				<hr/>
 				<b>Q: Is there any way I can get Tox right now?</b><br/>
-				A: <a href="https://github.com/irungentoo/ProjectTox-Core/blob/master/INSTALL.md">Compile it!</a><br/>
+				A: <a href="http://download.tox.im"> Download nightly builds</a> or <a href="https://github.com/irungentoo/ProjectTox-Core/blob/master/INSTALL.md">Compile it!</a><br/>
 				<hr/>
 				<b>Q: Are there are Windows downloads available?</b><br/>
-				A: Scroll up. They're on this page.<br/>
+				A: Scroll up. They're on the official Tox download page.<br/>
 				<hr/>
 				<b>Q: What command line stuff do I use to make nTox work?</b><br/>
-				A: ./ntox 66.175.223.88 33445 AC4112C975240CAD260BB2FCD134266521FAAF0A5D159C5FD3201196191E4F5D<br/>
+				A: nTox is currently depreciated, and most likely won't run. Please use a current download<br/>
 				Tadah.<br/>
 				<hr/>
 				<b>Q: I can't get this to compile, or I'm having other issues with Tox</b><br/>
 				A: The best place to ask for help is on the IRC @ irc.freenode.net #tox<br/>
 				<hr/>
 				<b>Q: Where do I get the amazing GUI I saw?</b><br/>
-				A: You don't. It's a mockup, there is <b>no GUI</b> that comes close to the mockup on tox.im (yet).<br/>
-				You can, however, try to compile <a href="https://github.com/nurupo/ProjectTox-Qt-GUI">ProjectTox-Qt-GUI</a><br/>
+				A: You most likely mean <a href="http://download.tox.im">Venom/a><br/>
 				<hr/>
 				<b>Q: How do I add a friend</b><br/>
-				A: Ask them for their ID that their client gives them, in nTox you simply "/f thatlongidtheygiveyou". They have to accept you before you can talk to them.<br/>
-				<hr/>
-				<b>Q: I compiled the QT GUI, but it's always offline, help?</b><br/>
-				A: If you have a settings.ini, open it up and put this inside of it: <a href="https://gist.github.com/nurupo/6e6a76c26df50efafce2">https://gist.github.com/nurupo/6e6a76c26df50efafce2</a><br/>
+				A: Ask them for their ID that their client gives them, and add them based on client. They have to accept you before you can talk to them.<br/>
 			</div>
 			<div id="screenshots">
 				<h2>Screenshots</h2>
